@@ -1,0 +1,29 @@
+img{
+  height: 200px
+}
+body{
+  background-color: #467855;
+}
+h1{
+  font-size: 7rem;
+  color: #b50595;
+  position: relative;
+  left:50%;
+  font-family: sans-serif;
+}
+.dice1{
+  position: relative;
+  left:50%;
+  top:50px;
+}
+.dice2{
+  position: relative;
+  left:80%;
+  top:-204px;
+}
+p{
+  margin: 2px;
+  font-size: 2rem;
+  padding: 0 40px 10px 40px;
+  color:red;
+}
